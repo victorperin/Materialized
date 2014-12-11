@@ -20,6 +20,7 @@
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
-
+<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/jquery/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/materialize/js/materialize.min.js"></script>
 </body>
 </html>
